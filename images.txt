@@ -1,5 +1,4 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 moelin/1panel:latest
+xhofe/alist:latest
+whyour/qinglong:latest
+portainer/portainer-ce:latest
